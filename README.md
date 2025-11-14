@@ -59,3 +59,11 @@ pig-game/
 ├── dice-6.png
 ├── pig-game-flowchart.png  # Game flowchart diagram
 └── README.md           # Project documentation
+
+## 📄 License
+
+This project was developed by **Ibrahim Saudi** as part of a JavaScript course.  
+It is available for **educational and personal learning purposes only**.  
+
+📧 **Contact:** ibrahimstudent064@gmail.com
+
