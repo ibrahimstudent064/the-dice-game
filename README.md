@@ -98,12 +98,12 @@ Just:
 
 ## 📄 License
 
-This project was developed by **Ibrahim Saudi** as part of a JavaScript course.  
-It is available for **educational and personal learning purposes only**.
+This project was developed by **Ibrahim Saudi** 
 
 📧 **For inquiries:** ibrahimstudent064@gmail.com  
 
 ---
 
 **Enjoy the game! 🎉**
+
 
