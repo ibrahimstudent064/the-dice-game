@@ -3,13 +3,6 @@
 
 A classic two-player dice game built with vanilla JavaScript, HTML, and CSS. Players take turns rolling dice, accumulating points, and trying to be the first to reach 100 points.
 
----
-
-👨‍💻 **Developed by:** Ibrahim Saudi  
-📧 **Contact:** ibrahimstudent064@gmail.com  
-
----
-
 ## 📖 Game Rules
 
 1. **Roll Dice**: Click the "🎲 Roll dice" button to roll a die.
@@ -98,12 +91,12 @@ Just:
 
 ## 📄 License
 
-This project was developed by **Ibrahim Saudi** 
-
-📧 **For inquiries:** ibrahimstudent064@gmail.com  
+👨‍💻 **Developed by:** Ibrahim Saudi  
+📧 **Contact:** ibrahimstudent064@gmail.com  
 
 ---
 
 **Enjoy the game! 🎉**
+
 
 
